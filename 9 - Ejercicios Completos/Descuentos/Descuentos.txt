@@ -1,0 +1,7 @@
+id_desc^descrip^descuento
+d0^sin descuento^0
+d1^descuento especial^10
+d2^semana increible^20
+d3^mes de la mascota^25
+d4^quincena explendida^15
+d5^descuento aniversrio^12

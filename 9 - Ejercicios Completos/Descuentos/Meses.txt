@@ -1,0 +1,13 @@
+id;mes;desc_id
+1;Enero;d1
+2;Febrero;d3
+3;Marzo;d0
+4;Abril;d2
+5;Mayo;d1
+6;Junio;d3
+7;Julio;d0
+8;Agosto;d2
+9;Septiembre;d3
+10;Octubre;d4
+11;Noviembre;d5
+12;Diciembre;d2
