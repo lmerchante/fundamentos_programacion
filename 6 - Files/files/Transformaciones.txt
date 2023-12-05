@@ -1,0 +1,5 @@
+Operation,Parameter
+SHIFT,3
+REVERSE,
+REPLACE,A,R
+ADD,Z
